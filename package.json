@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://theart84.github.io/my-project",
+  "homepage": "https://theart84.github.io/ga_to_gp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
